@@ -1,6 +1,6 @@
 let
   user = "ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAIO/RZ2j8AcRxzlkW0C4A/nABQbR/7ie5nrBXm/aZ6PpS dustin@dlyons.dev";
-  users = [ dustin ];
+  users = [ vijaytupakula ];
   systems = [ ];
 in
 {
